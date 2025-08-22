@@ -1,4 +1,4 @@
-# SecureRemoteControlExecutor
+SecureRemoteControlExecutor
 
 ## Description
 A **TCP-based client-server application** that allows secure remote command execution with **basic authentication**. It demonstrates key **Linux concepts** such as socket programming, process management, multithreading, inter-process communication, and file system operations.
@@ -13,8 +13,8 @@ A **TCP-based client-server application** that allows secure remote command exec
 
 
 ## Screenshots
-![Server Screenshot](images/server.jpg)
-![Client Screenshot](images/client.jpg)
+![Server Screenshot](server.jpg)
+![Client Screenshot](client.jpg)
 
 
 ## Learning Outcomes
