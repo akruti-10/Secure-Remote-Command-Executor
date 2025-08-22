@@ -38,7 +38,7 @@ void *handle_client(void *arg) {
 
         buffer[strcspn(buffer, "\n")] = 0;  // Remove newline
 
-        printf("Command received: %s\n", buffer);  // <-- ✅ Your required print
+        printf("Command received: %s\n", buffer);  
 
         if (strncmp(buffer, "exit", 4) == 0) {
             send(new_socket, "Session closed.\n", 16, 0);
