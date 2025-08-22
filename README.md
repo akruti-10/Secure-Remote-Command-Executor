@@ -13,7 +13,7 @@ A **TCP-based client-server application** that allows secure remote command exec
 
 
 ## Screenshots
-![Server Screenshot](images/server.jpg)  
+![Server Screenshot](images/server.jpg)
 ![Client Screenshot](images/client.jpg)
 
 
